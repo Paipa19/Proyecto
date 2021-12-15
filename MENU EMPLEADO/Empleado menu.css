@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background: url(img/yes.0.jpeg)
+
+}
+
+
+.menu{
+    list-style: none;
+    padding: 100;
+    background: #24303c;
+    width: 30%;
+    max-width: 1000px;
+    margin:auto;
+
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+
+
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+
+}
+
+.menu li a:hover{
+    background: #1f53c5;
+
+}
+ .boton{
+    width: 5%;
+    background: #1f53c5;
+    padding: 10px;
+    color: white;
+    margin: 20px 40px;
+    font-size: 14px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.btonsalir{
+    width: 5%;
+    background: #1f53c5;
+    padding: 10px;
+    color: white;
+    margin: 20px 40px;
+    font-size: 14px;
+}
+.btonsalir a{
+    background: #1f53c5 ;
+    color: white;
+
+}

@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background: url(img/yes.jpeg)
+
+}
+
+.registros{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 32px;
+    border-radius: 20px;
+    font-family: "calibri";
+    color:white;
+    box-shadow: 20px 20px 10px 10px #000;
+}
+.registros h3{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.control{
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 18px;
+    border: 1px solid #1f53c5;
+    font-family: "calibri";
+    font-size: 18px;
+    color: white;
+}
+
+.registros .boton{
+    width: 30%;
+    background: #1f53c5;
+    padding: 10px;
+    color: white;
+    margin: 20px 40px;
+    font-size: 14px;
+}
+
+.registros .boton1{
+    width: 30%;
+    background: #1f53c5;
+    padding: 10px;
+    color: white;
+    margin: 20px 20px;
+    font-size: 14px;
+}
+
+.tabla{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 32px;
+    border-radius: 20px;
+    font-family: "calibri";
+    color:white;
+    box-shadow: 20px 20px 10px 10px #000;
+}
+
+.recliente .boton3{
+    width: 5%;
+    background: #1f53c5;
+    padding: 10px;
+    color: white;
+    margin: 20px 40px;
+    font-size: 14px;
+}
+.recliente .boton4{
+    width: 5%;
+    background: #1f53c5;
+    padding: 10px;
+    color: white;
+    margin: 20px 20px;
+    font-size: 14px;
+}
+.recliente .boton5{
+    width: 5%;
+    background: #1f53c5;
+    padding: 10px;
+    color: white;
+    margin: 20px 20px;
+    font-size: 14px;
+}
+.btonsalir{
+    width: 5%;
+    background: #1f53c5;
+    padding: 10px;
+    color: white;
+    margin: 20px 40px;
+    font-size: 14px;
+}
+.btonsalir a{
+    background: #1f53c5 ;
+    color: white;
+
+}

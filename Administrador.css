@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background: url(img/yes.0.jpeg)
+
+}
+
+.tabla{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 32px;
+    border-radius: 20px;
+    font-family: "calibri";
+    color:white;
+    box-shadow: 20px 20px 10px 10px #000;
+
+}
+
+.titulo h3{
+    font-size: 20px;
+    margin-bottom: 20px;
+    Color: white
+}
+
+
+.titulo .boton1{
+    width: 5%;
+    background: #1f53c5;
+    padding: 10px;
+    color: white;
+    margin: 20px 20px;
+    font-size: 14px;
+}  
+.btonsalir{
+    width: 5%;
+    background: #1f53c5;
+    padding: 10px;
+    color: white;
+    margin: 20px 40px;
+    font-size: 14px;
+}
+.btonsalir a{
+    background: #1f53c5 ;
+    color: white;
+
+}
+    
